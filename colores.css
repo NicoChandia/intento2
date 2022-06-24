@@ -1,0 +1,59 @@
+#titulo{
+    font-size: 40px;
+}
+#titulo:hover{
+    
+    color: rgb(7, 199, 247);
+}
+caption{
+    font-size: 15px;
+    color: rgb(17, 50, 243);
+}
+p strong{
+    font-size: 15px;
+    color: rgb(250, 0, 0);
+}
+.destacado{
+    font-size: 15px;
+    color: rgb(225, 250, 0);
+}
+#subtitulo{
+    font-size: 40px;
+    color: rgb(16, 19, 207);
+}
+p a{
+    font-size: 15px;
+    color: rgb(207, 16, 16);
+}
+p em{
+    font-size: 15px;
+    color: rgb(16, 19, 207);
+}
+p .especial{
+    font-size: 15px;
+    color: rgb(182, 13, 197);
+} 
+.especial {
+    font-size: 15px;
+    color: rgb(169, 197, 13);
+}
+td{
+    font-size: 15px;
+    color: rgb(0, 252, 42);
+}
+td strong{
+    font-size: 15px;
+    color: rgb(255, 154, 4);
+}
+th{
+    font-size: 15px;
+    color: rgb(252, 0, 0);
+}
+#adicional #especial {
+    font-size: 15px;
+    color: rgb(240, 6, 189);
+}
+#adicional p a{
+    font-size: 15px;
+    color: rgb(72, 240, 6);
+}
